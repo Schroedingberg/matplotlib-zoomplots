@@ -3,4 +3,5 @@ A library for easy access of the zoom functions from the matplotlib [[http://mat
 
 
 For now, this is just for my personal use for some spectroscopic data analysis.
-However, on long term I would like to make this a bigger library that is so easy to use, that also non-programming scientists can use it.
+However, on long term I would like to make this a bigger library that is so
+easy to use, that also non-programming scientists can use it.
